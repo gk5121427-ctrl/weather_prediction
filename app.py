@@ -14,7 +14,6 @@ model, le, scaler = load_model()
 
 st.set_page_config(page_title="Weather App", page_icon="🌦️")
 st.title("🌦️ Weather Prediction App")
-st.caption("Random Forest - 77.8% Accuracy")
 st.divider()
 
 col1, col2 = st.columns(2)
