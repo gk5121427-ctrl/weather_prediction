@@ -2,11 +2,11 @@
 
 > Multi-class Weather Classification using Random Forest - 77.8% Accuracy
 
-Live Demo: **Coming Soon** (Streamlit pe deploy ke baad yaha link daal dena)
+Live Demo: https://weatherprediction-tpbwt8jnkb9txk5ftud6ag.streamlit.app/
 
 ### 📌 Overview
-Is project me mausam predict kiya hai - `Sunny, Rainy, Foggy, Drizzle` etc. 
-4 Features ka use kiya gaya hai: `precipitation, temp_max, temp_min, wind`
+this project predicts - `Sunny, Rainy, Foggy, Drizzle` etc. 
+4 Features use: `precipitation, temp_max, temp_min, wind`
 Yeh ek **Classification Problem** hai.
 
 ### 📊 Dataset
